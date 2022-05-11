@@ -1,0 +1,2 @@
+project information
+Hello all this is demo of GIT.Jenkins Integration
